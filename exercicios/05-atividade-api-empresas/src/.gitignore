@@ -1,0 +1,5 @@
+
+const DB_USER = 'roger10';
+const DB_PASS = 'flamengothebest';
+const DB_HOST = 'cluster0.x4fxuzj.mongodb.net';
+const DB_NAME = 'livraria';
